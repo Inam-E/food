@@ -1,0 +1,14 @@
+body{
+	background: url(Naijajellof.png);
+	background-size: cover;
+	color: rgb(0, 50, 80);
+}
+h2:hover{
+	color: blueviolet;
+}
+h3:hover{
+	color: blueviolet;
+}
+h4:hover{
+	color: blueviolet;
+}
